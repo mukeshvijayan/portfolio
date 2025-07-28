@@ -53,10 +53,10 @@ Currently working as a Software Developer Associate with a focus on responsive U
 
 ```bash
 # Clone the repository
-git clone https://github.com/mukeshvijayan/your-portfolio-repo
+git clone https://github.com/mukeshvijayan/portfolio.git
 
 # Navigate into the directory
-cd your-portfolio-repo
+cd portfolio
 
 # Open with Live Server or just open index.html in your browser
 ```
